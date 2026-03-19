@@ -25,8 +25,8 @@
 | Day 12 | Data from APIs | ✅ Done |
 | Day 13 | Web Scraping | ✅ Done |
 | Day 14 | CSV & JSON Files | ✅ Done |
-| Day 15-20 | Exploratory Data Analysis (EDA) | 🔄 In Progress |
-
+| Day 15-20 | Exploratory Data Analysis (EDA) | done |
+| Day 21 | 
 ## 🛠️ Tools Used
 - Python, Pandas, NumPy
 - Matplotlib, Seaborn
